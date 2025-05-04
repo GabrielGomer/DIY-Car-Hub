@@ -1,3 +1,5 @@
+# DIY Car Hub App
+
 Privacy Policy for DIY Car Hub App
 
 Introduction Welcome to the Ultimate Automotive DIY Companion App, a mobile application designed to provide the right information for repair, diagnostics, and maintenance on automotive vehicles. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your data when you use our app.
