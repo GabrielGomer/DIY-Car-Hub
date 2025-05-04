@@ -22,7 +22,7 @@ Data Retention and Deletion:
 
 • Deletion: You have the right to request the deletion of your data at any time. Contact us using the information below to make such a request.
 
-User Rights and Choices 
+User Rights and Choices: 
 
 • Opting Out: You can opt out of data collection by revoking app permissions in your device settings. 
 
