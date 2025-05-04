@@ -7,8 +7,10 @@ Information Collection
 We collect the following types of information:
 
 1.	Device Data: Information about your device, including device type, operating system, and unique device identifiers.
-2.	Usage Analytics: Data on how you interact with the app, which helps us improve our services.
-3.	Data Collection: We collect the vehicle information: year, make, model and time of the session. This data is stored locally on your device.
+   
+3.	Usage Analytics: Data on how you interact with the app, which helps us improve our services.
+   
+5.	Data Collection: We collect the vehicle information: year, make, model and time of the session. This data is stored locally on your device.
    
 Data Security Measures:
 
@@ -17,9 +19,13 @@ Data Security Measures:
 Data Retention and Deletion: 
 
 • Retention: We retain your data only as long as necessary to fulfill the purposes outlined in this policy. 
+
 • Deletion: You have the right to request the deletion of your data at any time. Contact us using the information below to make such a request.
+
 User Rights and Choices 
+
 • Opting Out: You can opt out of data collection by revoking app permissions in your device settings. 
+
 • Data Access and Deletion: You have the right to access your data and request its deletion.
 
 Children’s Privacy:
